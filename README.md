@@ -1,6 +1,6 @@
 # DropFall
 DropFall is a console-based text adventure game
-It is based on a 5x5 grid layout where the user can traverse, obtain items and complete their game.
+It is based on a 5x5 grid layout where the user can traverse to different environments, obtain items and challenge enemies.
 
 INTRODUCTION
 The game is called “Drop-Fall”. Using your quick wit and strength you must take on the dangers of Sanity Island and retrieve the “Master Emerald” to save the world. This game uses numerical values to control the game, has 3 height levels, 11 physical locations and 8 interactable objects(items and npc’s). This game is designed to have a linear journey at the start with the opportunity for an alternate ending(death) until the player has reached “Sanity Island” where the player has more freedom to traverse between 9 locations freely.
